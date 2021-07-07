@@ -66,6 +66,8 @@ Please check the comments in the files to see how it works.
 
 The application can easily have more than one `page.tsx` implementation, and one is able to decide which implementation to use on the particular page.
 
+Also, see additional info in [my comment](https://github.com/vercel/next.js/discussions/10874#discussioncomment-975545)
+
 ## License
 
 MIT
